@@ -27,7 +27,7 @@ A sleek, modern **sliding sidebar navigation** menu built with pure HTML and CSS
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Yuzuki-Kun/photowave-css.git
+    git clone https://github.com/yuzikage/photowave-css.git
     ```
 2.  **Ensure you have an image:**
     Place an image named `photo.jpg` in the root directory or update the `background` property in `style.css`.
@@ -42,4 +42,4 @@ To change the look of the sidebar, you can modify these properties in `style.css
 * **Colors:** Modify the `background-color: rgba(...)` in `.sidebar_menu` for different transparency levels.
 
 ---
-*Developed by [Yuzuki-Kun](https://github.com/Yuzuki-Kun)*
+*Developed by [Smit](https://github.com/yuzikage)*
